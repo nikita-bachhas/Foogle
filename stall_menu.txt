@@ -1,0 +1,40 @@
+Chicken Rice,Steamed/Roasted Chicken Rice Set,4.50,0800,2030,0,1,2,3,4
+Chicken Rice,Steamed/Roasted Chicken Rice,3.00,0800,2030,0,1,2,3,4
+Chicken Rice,Lemon Chicken Rice,3.00,0800,2030,0,1,2,3,4
+Chicken Rice,Curry Chicken Noodle,3.00,0800,2030,0,1,2,3,4
+Chicken Rice,Steamed/Roasted Chicken Rice Set,4.50,0800,1430,5
+Chicken Rice,Steamed/Roasted Chicken Rice,3.00,0800,1430,5
+Chicken Rice,Lemon Chicken Rice,3.00,0800,1430,5
+Chicken Rice,Curry Chicken Noodle,3.00,0800,1430,5
+Hand-made Noodle,Ban Mian,3.00,0800,2030,0,1,2,3,4
+Hand-made Noodle,Mee Hoon Kway,3.00,0800,2030,0,1,2,3,4
+Hand-made Noodle,U-Mian,3.00,0800,2030,0,1,2,3,4
+Hand-made Noodle,Dumpling Ban Mian,3.50,0800,2030,0,1,2,3,4
+Hand-made Noodle,Ban Mian,3.00,0800,1430,5
+Hand-made Noodle,Mee Hoon Kway,3.00,0800,1430,5
+Hand-made Noodle,U-Mian,3.00,0800,1430,5
+Hand-made Noodle,Dumpling Ban Mian,3.50,0800,1430,5
+Cantonese Roast Duck,Roasted Duck Rice,3.30,0800,2030,0,1,2,3,4
+Cantonese Roast Duck,Char Siew Rice,2.80,0800,2030,0,1,2,3,4
+Cantonese Roast Duck,Roasted Meat Rice,2.80,0800,2030,0,1,2,3,4
+Cantonese Roast Duck,Char Siew Noodle,3.30,0800,2030,0,1,2,3,4
+Cantonese Roast Duck,Roasted Duck Rice,3.30,0800,1430,5
+Cantonese Roast Duck,Char Siew Rice,2.80,0800,1430,5
+Cantonese Roast Duck,Roasted Meat Rice,2.80,0800,1430,5
+Cantonese Roast Duck,Char Siew Noodle,3.30,0800,1430,5
+Western Food,American Breakfast Set,4.30,0800,1130,0,1,2,3,4
+Western Food,Chicken Cutlet,4.80,0800,2030,0,1,2,3,4
+Western Food,Chicken Chop,4.80,0800,2030,0,1,2,3,4
+Western Food,Fish & Chips,4.80,0800,2030,0,1,2,3,4
+Western Food,Beef Steak,6.30,0800,2030,0,1,2,3,4
+Western Food,American Breakfast Set,4.30,0800,1130,5
+Western Food,Chicken Cutlet,4.80,0800,1430,5
+Western Food,Chicken Chop,4.80,0800,1430,5
+Western Food,Fish & Chips,4.80,0800,1430,5
+Western Food,Beef Steak,6.30,0800,1430,5
+Malay BBQ,Lantong,2.80,0800,1130,0,1,2,3,4
+Malay BBQ,Mee Rebus,2.80,0800,1130,0,1,2,3,4
+Malay BBQ,Mee Sam,2.80,0800,1130,0,1,2,3,4
+Malay BBQ,Mee Soto,2.80,0800,1130,0,1,2,3,4
+Malay BBQ,Ayam Penyet,4.00,0800,2030,0,1,2,3,4
+Malay BBQ,Fish Fillet,4.00,0800,2030,0,1,2,3,4

@@ -12,7 +12,7 @@ Foogle is an application that displays the menus of shops in a canteen, includin
 
 1. To read the entire project in full detail: [Report Mini Project.pdf](Foogle/Report Mini Project.pdf)
 
-2. To view a summarised version of the project: [PPT Mini Project.pptx](Foogle/PPT Mini Project.pptx)
+2. To view a summarised version of the project: [PPT Mini Project.pptx](https://github.com/nikita-bachhas/Foogle/blob/master/PPT%20Mini%20Project.pptx)
 
 ## Developed by:
 Au Yi Xian

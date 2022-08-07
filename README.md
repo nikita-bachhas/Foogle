@@ -15,7 +15,5 @@ Foogle is an application that displays the menus of shops in a canteen, includin
 
 ## Developed by:
 Au Yi Xian
-
 Bachhas Nikita
-
 Carissa Lee Xue Wei

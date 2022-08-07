@@ -3,9 +3,7 @@ Foogle is an application that displays the menus of shops in a canteen, includin
 
 ## Functionality
 1. Contains a knowledge datbase of the menues of different stalls, the prices of different food, opening and closing times, etc. 
-
 2. A function to check menus of stalls and their operating hours. 
-
 3. A function to check the number of people in queue at the moment and the current waiting time
 
 ## Documentation
@@ -14,8 +12,6 @@ Foogle is an application that displays the menus of shops in a canteen, includin
 2. To view a summarised version of the project: [PPT Mini Project.pptx](https://github.com/nikita-bachhas/Foogle/blob/master/PPT%20Mini%20Project.pptx)
 
 ## Developed by:
-Au Yi Xian
-
-Bachhas Nikita
-
-Carissa Lee Xue Wei
+1. Au Yi Xian
+2. Bachhas Nikita
+3. Carissa Lee Xue Wei
